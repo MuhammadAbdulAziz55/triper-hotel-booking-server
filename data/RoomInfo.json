@@ -1,0 +1,90 @@
+[
+  {
+    "id": "01",
+    "title": "Delux Queen Luxury Room",
+    "capacity": "4 Person",
+    "size": "600sqm",
+    "view": "City, Ocean",
+    "img": "https://kingho.vercel.app/assets/images/resource/image-32.jpg"
+  },
+  {
+    "id": "02",
+    "title": "Delux Queen Luxury Room",
+    "capacity": "6 Person",
+    "size": "1000sqm",
+    "view": "City, Ocean",
+    "img": "https://kingho.vercel.app/assets/images/resource/image-30.jpg"
+  },
+  {
+    "id": "03",
+    "title": "Delux Queen Luxury Room",
+    "capacity": "8 Person",
+    "size": "1200sqm",
+    "view": "City, Ocean",
+    "img": "https://kingho.vercel.app/assets/images/resource/image-31.jpg"
+  },
+  {
+    "id": "04",
+    "title": "Delux Queen Luxury Room",
+    "capacity": "8 Person",
+    "size": "1200sqm",
+    "view": "City, Ocean",
+    "img": "https://kingho.vercel.app/assets/images/resource/image-75.jpg"
+  },
+  {
+    "id": "05",
+    "title": "Delux Queen Luxury Room",
+    "capacity": "8 Person",
+    "size": "1200sqm",
+    "view": "City, Ocean",
+    "img": "https://kingho.vercel.app/assets/images/resource/image-76.jpg"
+  },
+  {
+    "id": "06",
+    "title": "Delux Queen Luxury Room",
+    "capacity": "8 Person",
+    "size": "1200sqm",
+    "view": "City, Ocean",
+    "img": "https://kingho.vercel.app/assets/images/resource/image-77.jpg"
+  },
+  {
+    "id": "07",
+    "title": "Delux Queen Luxury Room",
+    "capacity": "8 Person",
+    "size": "1200sqm",
+    "view": "City, Ocean",
+    "img": "https://kingho.vercel.app/assets/images/resource/image-78.jpg"
+  },
+  {
+    "id": "08",
+    "title": "Delux Queen Luxury Room",
+    "capacity": "8 Person",
+    "size": "1200sqm",
+    "view": "City, Ocean",
+    "img": "https://kingho.vercel.app/assets/images/resource/image-79.jpg"
+  },
+  {
+    "id": "09",
+    "title": "Delux Queen Luxury Room",
+    "capacity": "8 Person",
+    "size": "1200sqm",
+    "view": "City, Ocean",
+    "img": "https://kingho.vercel.app/assets/images/resource/image-71.jpg"
+  },
+  {
+    "id": "10",
+    "title": "Delux Queen Luxury Room",
+    "capacity": "8 Person",
+    "size": "1200sqm",
+    "view": "City, Ocean",
+    "img": "https://kingho.vercel.app/assets/images/resource/image-75.jpg"
+  },
+  {
+    "id": "11",
+    "title": "Delux Queen Luxury Room",
+    "capacity": "8 Person",
+    "size": "1200sqm",
+    "view": "City, Ocean",
+    "img": "https://kingho.vercel.app/assets/images/resource/image-72.jpg"
+  }
+]
